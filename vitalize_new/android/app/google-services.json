@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1089326663797",
+    "project_id": "vitalize-9ce5d",
+    "storage_bucket": "vitalize-9ce5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089326663797:android:938ef5e5951a47db07d03c",
+        "android_client_info": {
+          "package_name": "com.example.vitalize2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBnrRU9m80JoLWOr-JOq9EL6-p5B6Prw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089326663797:android:92adca28df133ad807d03c",
+        "android_client_info": {
+          "package_name": "com.example.vitalizenew.vitalize_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBnrRU9m80JoLWOr-JOq9EL6-p5B6Prw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089326663797:android:57c6bfb6b752ecc207d03c",
+        "android_client_info": {
+          "package_name": "com.vitalize.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBnrRU9m80JoLWOr-JOq9EL6-p5B6Prw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
